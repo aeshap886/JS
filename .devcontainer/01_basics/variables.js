@@ -45,4 +45,4 @@ let someNumber = 33
 
 let stringNum = String(someNumber)
 console.log(stringNum);
-console.log(typeof stringNum)
+console.log(typeof stringNum);
